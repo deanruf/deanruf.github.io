@@ -1,2 +1,2 @@
 # lokal-buch
-The Finest by Dean ist umgezogen: https://lokal-buch.web.app/
+The Finest by Dean ist umgezogen: https://finestbydean.ch/
